@@ -1,0 +1,81 @@
+{
+    "animals": [{
+            "name": "Lionfish",
+            "genus": "Pterois",
+            "url": "https://user-images.githubusercontent.com/11640459/83287973-3db3e980-a1a8-11ea-8877-c9380e0f20d8.jpg",
+            "description": "A lionfish can live from 5 to 15 years. It is native to the Indo-Pacific geographic area."
+        },
+        {
+            "name": "Seahorse",
+            "genus": "Hippocampus",
+            "url": "https://user-images.githubusercontent.com/11640459/83287974-3db3e980-a1a8-11ea-8db3-af69d7b4f4e1.jpg",
+            "description": "A seahorse reside in shallow tropical and temperate salt water throughout the globe."
+        },
+        {
+            "name": "Crocodile",
+            "genus": "Osteolaemus",
+            "url": "https://user-images.githubusercontent.com/11640459/83287975-3e4c8000-a1a8-11ea-8366-db822fb0a3ea.jpg",
+            "description": "A crocodile lives throughout the tropics in Africa, Asia, the Americas and Australia."
+        },
+        {
+            "name": "Giraffe",
+            "genus": "Giraffa",
+            "url": "https://user-images.githubusercontent.com/11640459/83287976-3e4c8000-a1a8-11ea-8bfb-9a5ecdecd49b.jpg",
+            "description": "A giraffe roams from Central to South Africa."
+        },
+        {
+            "name": "Giant Panda",
+            "genus": "Ailuropoda",
+            "url": "https://user-images.githubusercontent.com/11640459/83287980-3e4c8000-a1a8-11ea-9abe-275fa10daac4.jpg",
+            "description": "An giant panda can be found in South Central Asia."
+        },
+        {
+            "name": "Lion",
+            "genus": "Panthera",
+            "url": "https://user-images.githubusercontent.com/11640459/83287981-3ee51680-a1a8-11ea-82f3-6d72615fbf37.jpg",
+            "description": "A lion can be found roaming in Sub-Saharan Africa."
+        },
+        {
+            "name": "Cheetah",
+            "genus": "Acinonyx",
+            "url": "https://user-images.githubusercontent.com/11640459/83287982-3ee51680-a1a8-11ea-87b2-ce2ede8ceea6.jpg",
+            "description": "A cheetah is located in central Iran and southern, eastern and northwestern Africa."
+        },
+        {
+            "name": "Frog",
+            "genus": "Nectophrynoides",
+            "url": "https://user-images.githubusercontent.com/11640459/83287983-3ee51680-a1a8-11ea-8929-a1830953823d.jpg",
+            "description": "A frog can live just about anywhere except extreme cold places."
+        },
+        {
+            "name": "Bald Eagle",
+            "genus": "Haliaeetus",
+            "url": "https://user-images.githubusercontent.com/11640459/83287984-3ee51680-a1a8-11ea-87a8-9a51a6b15e7b.jpg",
+            "description": "A bald eagle is native to USA."
+        },
+        {
+            "name": "Camel",
+            "genus": "Camelus",
+            "url": "https://user-images.githubusercontent.com/11640459/83287986-3f7dad00-a1a8-11ea-89d8-0445fe175ba8.jpg",
+            "description": "A camel can be found in the Middle East, Horn of Africa, Central Asia, northwest China, and Mongolia."
+        },
+        {
+            "name": "Zebra",
+            "genus": "Equus",
+            "url": "https://user-images.githubusercontent.com/11640459/83287987-3f7dad00-a1a8-11ea-8116-474f8c9c3771.jpg",
+            "description": "A zebra is located in eastern and southern Africa."
+        },
+        {
+            "name": "Fox",
+            "genus": "Vulpes",
+            "url": "https://user-images.githubusercontent.com/11640459/83287988-3f7dad00-a1a8-11ea-8aca-cef08ce2ae51.jpg",
+            "description": "A fox can be found in most continents."
+        },
+        {
+            "name": "Gorilla",
+            "genus": "Gorilla",
+            "url": "https://user-images.githubusercontent.com/11640459/83287989-3f7dad00-a1a8-11ea-95d9-ec8310fe9f05.jpg",
+            "description": "A gorilla can be found in Sub-Saharan Africa."
+        }
+    ]
+}
